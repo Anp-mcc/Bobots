@@ -1,0 +1,5 @@
+F:\Own\RobotWars\RobotWars.GeneticStuff\bin\Debug\RobotWars.GeneticStuff.dll
+F:\Own\RobotWars\RobotWars.GeneticStuff\bin\Debug\RobotWars.GeneticStuff.pdb
+F:\Own\RobotWars\RobotWars.GeneticStuff\obj\Debug\RobotWars.GeneticStuff.dll
+F:\Own\RobotWars\RobotWars.GeneticStuff\obj\Debug\RobotWars.GeneticStuff.pdb
+F:\Own\RobotWars\RobotWars.GeneticStuff\obj\Debug\RobotWars.GeneticStuff.csprojResolveAssemblyReference.cache

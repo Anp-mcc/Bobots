@@ -1,0 +1,4 @@
+F:\Own\RobotWars\RobotWars\bin\Debug\RobotWars.pdb
+F:\Own\RobotWars\RobotWars\obj\Debug\RobotWars.pdb
+F:\Own\RobotWars\RobotWars\bin\Debug\RobotWars.dll
+F:\Own\RobotWars\RobotWars\obj\Debug\RobotWars.dll
