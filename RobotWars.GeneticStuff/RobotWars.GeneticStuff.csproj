@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArythmeticCrossover.cs" />
+    <Compile Include="Events\NewPopulationEventArgs.cs" />
     <Compile Include="EvolutionManager.cs" />
     <Compile Include="FitnessCalculator.cs" />
     <Compile Include="Interfaces\ICrossover.cs" />

@@ -2,7 +2,7 @@
 
 namespace RobotWars.GeneticStuff
 {
-    internal class Crossover : ICrossover
+    public class Crossover : ICrossover
     {
         private const double Alpha = 0.3;
         

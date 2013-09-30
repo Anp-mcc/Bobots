@@ -3,3 +3,8 @@ F:\Own\RobotWars\RobotWars.GeneticStuff\bin\Debug\RobotWars.GeneticStuff.pdb
 F:\Own\RobotWars\RobotWars.GeneticStuff\obj\Debug\RobotWars.GeneticStuff.dll
 F:\Own\RobotWars\RobotWars.GeneticStuff\obj\Debug\RobotWars.GeneticStuff.pdb
 F:\Own\RobotWars\RobotWars.GeneticStuff\obj\Debug\RobotWars.GeneticStuff.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Bobots\RobotWars.GeneticStuff\bin\Debug\RobotWars.GeneticStuff.dll
+C:\Users\Андрей\Documents\Bobots\RobotWars.GeneticStuff\bin\Debug\RobotWars.GeneticStuff.pdb
+C:\Users\Андрей\Documents\Bobots\RobotWars.GeneticStuff\obj\Debug\RobotWars.GeneticStuff.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Bobots\RobotWars.GeneticStuff\obj\Debug\RobotWars.GeneticStuff.dll
+C:\Users\Андрей\Documents\Bobots\RobotWars.GeneticStuff\obj\Debug\RobotWars.GeneticStuff.pdb

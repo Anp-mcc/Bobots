@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace RobotWars.GeneticStuff
 {
-    internal class TournamentSelector : ISelector
+    public class TournamentSelector : ISelector
     {
         private const int TournamentSize = 2;
 

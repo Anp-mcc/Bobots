@@ -2,7 +2,7 @@
 
 namespace RobotWars.GeneticStuff
 {
-    internal interface IIndividual
+    public interface IIndividual
     {
         IList<double> Genes { get; }
         double Fitness { get; }

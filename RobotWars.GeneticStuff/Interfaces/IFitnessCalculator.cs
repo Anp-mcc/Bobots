@@ -2,7 +2,7 @@
 
 namespace RobotWars.GeneticStuff
 {
-    internal interface IFitnessCalculator
+    public interface IFitnessCalculator
     {
         double CalculateFitness(IList<double> genes);
     }

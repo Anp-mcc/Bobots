@@ -5,3 +5,10 @@ F:\Own\RobotWars\RobotWars.GeneticStuff.Tests\bin\Debug\RobotWars.GeneticStuff.d
 F:\Own\RobotWars\RobotWars.GeneticStuff.Tests\bin\Debug\RobotWars.GeneticStuff.pdb
 F:\Own\RobotWars\RobotWars.GeneticStuff.Tests\obj\Debug\RobotWars.GeneticStuff.Tests.dll
 F:\Own\RobotWars\RobotWars.GeneticStuff.Tests\obj\Debug\RobotWars.GeneticStuff.Tests.pdb
+C:\Users\Андрей\Documents\Bobots\RobotWars.GeneticStuff.Tests\bin\Debug\RobotWars.GeneticStuff.Tests.dll
+C:\Users\Андрей\Documents\Bobots\RobotWars.GeneticStuff.Tests\bin\Debug\RobotWars.GeneticStuff.Tests.pdb
+C:\Users\Андрей\Documents\Bobots\RobotWars.GeneticStuff.Tests\bin\Debug\RobotWars.GeneticStuff.dll
+C:\Users\Андрей\Documents\Bobots\RobotWars.GeneticStuff.Tests\bin\Debug\RobotWars.GeneticStuff.pdb
+C:\Users\Андрей\Documents\Bobots\RobotWars.GeneticStuff.Tests\obj\Debug\RobotWars.GeneticStuff.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Bobots\RobotWars.GeneticStuff.Tests\obj\Debug\RobotWars.GeneticStuff.Tests.dll
+C:\Users\Андрей\Documents\Bobots\RobotWars.GeneticStuff.Tests\obj\Debug\RobotWars.GeneticStuff.Tests.pdb

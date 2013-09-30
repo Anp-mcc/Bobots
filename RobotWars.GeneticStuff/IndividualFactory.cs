@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace RobotWars.GeneticStuff
 {
-    internal class IndividualFactory : IIndividualFactory
+    public class IndividualFactory : IIndividualFactory
     {
         private IFitnessCalculator _fitnessCalculator;
 

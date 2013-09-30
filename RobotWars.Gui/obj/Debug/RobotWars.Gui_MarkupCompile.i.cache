@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-F:\Own\RobotWars\RobotWars.Gui\obj\Debug\
+C:\Users\Андрей\Documents\Bobots\RobotWars.Gui\obj\Debug\
 RobotWars.Gui
 none
 false
 DEBUG;TRACE
-F:\Own\RobotWars\RobotWars.Gui\App.xaml
-11151548125
+C:\Users\Андрей\Documents\Bobots\RobotWars.Gui\App.xaml
+2884468031
 
-9-615572914
-91476075295
-MainWindow.xaml;
+15-389954605
+91696298029
+Views\EvolutionView.xaml;Views\MainView.xaml;
 
 False
 

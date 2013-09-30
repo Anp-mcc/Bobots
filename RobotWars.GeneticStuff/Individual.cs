@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace RobotWars.GeneticStuff
 {
-    internal class Individual : IIndividual, IComparable
+    public class Individual : IIndividual, IComparable
     {
         private const double Epsilon = 0.0000000001;
 

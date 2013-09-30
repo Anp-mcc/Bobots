@@ -1,9 +1,10 @@
-﻿using System.Collections.Generic;
+﻿using RobotWars.GeneticStuff.Events;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace RobotWars.GeneticStuff
 {
-    internal class EvolutionManager
+    public class EvolutionManager
     {
         private readonly ICrossover _crossover;
         private readonly ISelector _selector;
@@ -18,13 +19,13 @@ namespace RobotWars.GeneticStuff
             _mutator = mutator;
             _individualFactory = individualFactory;
         }
-
+            
 
         public IEnumerable<double> GetSolution(int populationSize, int genesCount, double MaxGeneValue, double minGeneValue, int maxGenerationCount)
         {
             var population = InitPopulation(populationSize, genesCount, MaxGeneValue, minGeneValue);
 
-            for (var i = 0; i < maxGenerationCount; i++)
+            for (var i = 0; i < maxGenerationCount; i++) 
             {
                 var children = new List<IIndividual>();
 
@@ -36,16 +37,31 @@ namespace RobotWars.GeneticStuff
 
                     children.AddRange(newBornChildren.Select(x => _mutator.Mutate(x)));
                 }
-
+                RaisePopulationChanged(population);
                 population.AddRange(children);
-
+                
                 population = population.OrderByDescending(x => x.Fitness).ToList();
-
                 population.RemoveRange(populationSize, populationSize);
             }
 
             return population[0].Genes;
         }
+
+        #region EventDeclaration
+
+        public delegate void NewPopulationEventHandler(object sender, NewPopulationEventArgs args);
+
+        public event NewPopulationEventHandler OnPopulationChanged;
+
+        private void RaisePopulationChanged(List<IIndividual> population)
+        {
+            double avg = population.Average(x => x.Fitness);
+            double max = population.Max(x => x.Fitness);
+
+            OnPopulationChanged(this, new NewPopulationEventArgs(max, avg));
+        }
+
+        #endregion
 
 
         private List<IIndividual> InitPopulation(int populationSize, int genesCount, double MaxGeneValue, double minGeneValue)

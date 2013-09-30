@@ -1,6 +1,6 @@
 ﻿namespace RobotWars.GeneticStuff
 {
-    internal interface IMutator
+    public interface IMutator
     {
         IIndividual Mutate(IIndividual individual);
     }

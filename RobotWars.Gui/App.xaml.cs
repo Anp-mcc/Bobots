@@ -1,4 +1,5 @@
-﻿using System.Windows;
+﻿using RobotWars.Gui.Views;
+using System.Windows;
 
 namespace RobotWars.Gui
 {
@@ -7,5 +8,10 @@ namespace RobotWars.Gui
     /// </summary>
     public partial class App : Application
     {
+        public void OnStartup(object sender, StartupEventArgs e)
+        {
+            MainView main = new MainView();
+            main.Show();
+        }
     }
 }

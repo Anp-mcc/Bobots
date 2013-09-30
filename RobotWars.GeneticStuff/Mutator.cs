@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace RobotWars.GeneticStuff
 {
-    internal class Mutator : IMutator
+    public class Mutator : IMutator
     {
         private readonly IIndividualFactory _individualFactory;
 

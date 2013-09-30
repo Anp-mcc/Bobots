@@ -2,7 +2,7 @@
 
 namespace RobotWars.GeneticStuff
 {
-    internal interface ICrossover
+    public interface ICrossover
     {
         IEnumerable<IIndividual> GetChildren(IIndividual parent1, IIndividual parent2);
     }

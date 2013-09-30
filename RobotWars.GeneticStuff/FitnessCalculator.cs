@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace RobotWars.GeneticStuff
 {
-    internal class FitnessCalculator : IFitnessCalculator
+    public class FitnessCalculator : IFitnessCalculator
     {
         public double CalculateFitness(IList<double> genes)
         {
