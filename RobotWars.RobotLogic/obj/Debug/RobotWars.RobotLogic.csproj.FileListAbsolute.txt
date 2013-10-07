@@ -1,5 +1,0 @@
-C:\Users\Андрей\Documents\Bobots\RobotWars.RobotLogic\bin\Debug\RobotWars.RobotLogic.dll
-C:\Users\Андрей\Documents\Bobots\RobotWars.RobotLogic\bin\Debug\RobotWars.RobotLogic.pdb
-C:\Users\Андрей\Documents\Bobots\RobotWars.RobotLogic\obj\Debug\RobotWars.RobotLogic.csprojResolveAssemblyReference.cache
-C:\Users\Андрей\Documents\Bobots\RobotWars.RobotLogic\obj\Debug\RobotWars.RobotLogic.dll
-C:\Users\Андрей\Documents\Bobots\RobotWars.RobotLogic\obj\Debug\RobotWars.RobotLogic.pdb

@@ -1,9 +1,0 @@
-F:\Own\RobotWars\RobotWarsTests\bin\Debug\RobotWarsTests.dll
-F:\Own\RobotWars\RobotWarsTests\bin\Debug\RobotWarsTests.pdb
-F:\Own\RobotWars\RobotWarsTests\bin\Debug\Rhino.Mocks.dll
-F:\Own\RobotWars\RobotWarsTests\bin\Debug\RobotWars.pdb
-F:\Own\RobotWars\RobotWarsTests\obj\Debug\RobotWarsTests.csprojResolveAssemblyReference.cache
-F:\Own\RobotWars\RobotWarsTests\obj\Debug\RobotWarsTests.dll
-F:\Own\RobotWars\RobotWarsTests\obj\Debug\RobotWarsTests.pdb
-F:\Own\RobotWars\RobotWarsTests\bin\Debug\RobotWars.dll
-F:\Own\RobotWars\RobotWarsTests\bin\Debug\nunit.framework.dll
