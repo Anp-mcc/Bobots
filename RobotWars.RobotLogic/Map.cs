@@ -5,7 +5,7 @@ using System.Text;
 
 namespace RobotWars.RobotLogic
 {
-    class Map : IMap
+    public class Map : IMap
     {
         private MapObject[,] _arr;
 
@@ -57,7 +57,7 @@ namespace RobotWars.RobotLogic
             return resArr;
         }
 
-        MapObject[,] RotateMatrix(MapObject[,] matrix)
+        public MapObject[,] RotateMatrix(MapObject[,] matrix)
         {
             MapObject[,] ret = new MapObject[XLength, YLength];
 

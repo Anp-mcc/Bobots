@@ -1,0 +1,9 @@
+C:\Users\Андрей\RobotWars\RobotWars.RobotLogic.Test\obj\Debug\RobotWars.RobotLogic.Test.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\RobotWars\RobotWars.RobotLogic.Test\bin\Debug\RobotWars.RobotLogic.Test.dll
+C:\Users\Андрей\RobotWars\RobotWars.RobotLogic.Test\bin\Debug\RobotWars.RobotLogic.Test.pdb
+C:\Users\Андрей\RobotWars\RobotWars.RobotLogic.Test\bin\Debug\nunit.framework.dll
+C:\Users\Андрей\RobotWars\RobotWars.RobotLogic.Test\bin\Debug\RobotWars.RobotLogic.dll
+C:\Users\Андрей\RobotWars\RobotWars.RobotLogic.Test\bin\Debug\RobotWars.RobotLogic.pdb
+C:\Users\Андрей\RobotWars\RobotWars.RobotLogic.Test\bin\Debug\nunit.framework.xml
+C:\Users\Андрей\RobotWars\RobotWars.RobotLogic.Test\obj\Debug\RobotWars.RobotLogic.Test.dll
+C:\Users\Андрей\RobotWars\RobotWars.RobotLogic.Test\obj\Debug\RobotWars.RobotLogic.Test.pdb

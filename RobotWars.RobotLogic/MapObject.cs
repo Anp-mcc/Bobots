@@ -6,6 +6,8 @@ namespace RobotWars.RobotLogic
         Enemy = 2,
         Block = 3,
         Empty = 4,
-        Friend = 5
+        Friend = 5,
+        RedBot = 6,
+        BlueBot = 7
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\Андрей\RobotWars\RobotWars.GeneticStuff\bin\Debug\RobotWars.GeneticStuff.dll
+C:\Users\Андрей\RobotWars\RobotWars.GeneticStuff\bin\Debug\RobotWars.GeneticStuff.pdb
+C:\Users\Андрей\RobotWars\RobotWars.GeneticStuff\obj\Debug\RobotWars.GeneticStuff.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\RobotWars\RobotWars.GeneticStuff\obj\Debug\RobotWars.GeneticStuff.dll
+C:\Users\Андрей\RobotWars\RobotWars.GeneticStuff\obj\Debug\RobotWars.GeneticStuff.pdb
+C:\Users\Андрей\RobotWars\RobotWars.GeneticStuff\bin\Debug\nunit.framework.dll
+C:\Users\Андрей\RobotWars\RobotWars.GeneticStuff\bin\Debug\nunit.framework.xml

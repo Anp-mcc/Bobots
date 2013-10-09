@@ -5,7 +5,7 @@ using System.Text;
 
 namespace RobotWars.RobotLogic
 {
-    class IMap
+    public interface IMap
     {
         MapObject this[int x, int y] { get; set; }
 
